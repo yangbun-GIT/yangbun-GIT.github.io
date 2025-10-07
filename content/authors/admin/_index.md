@@ -6,7 +6,7 @@ title: 윤영준
 superuser: true
 
 # Role/position
-role: ''
+role: '전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)'
 
 # Status emoji
 #status:

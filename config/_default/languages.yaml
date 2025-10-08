@@ -10,9 +10,10 @@ ko:
   contentDir: content/ko
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
+en:
+  languageCode: en-sus
+  title: "YJY-Portfolio"
+  contentDir: content/en
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...

@@ -49,6 +49,8 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+  taxonomy: [HTML, RSS]
+  page: [HTML]
 imaging:
   resampleFilter: lanczos
   quality: 75

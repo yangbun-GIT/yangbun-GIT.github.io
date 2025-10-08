@@ -7,6 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
+  - name: Resume
     url: about/
     weight: 20
+  - name: 위치
+    url: /contact
+    weight: 30

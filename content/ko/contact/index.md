@@ -39,14 +39,19 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: true
       
+    design:
+      columns: '3'
+
+  - block: contact
+    content:
+      title: 문의
       form:
         provider: netlify
         formspree:
           id:
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
-
+          
     design:
       columns: '3'
 ---

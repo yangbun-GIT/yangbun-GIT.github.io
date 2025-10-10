@@ -1,7 +1,7 @@
 ---
 widget: features
 headless: true
-weight: 15
+weight: 20
 title: '<span style="font-size:75%">My Interests</span>'
 subtitle: ''
 active: true

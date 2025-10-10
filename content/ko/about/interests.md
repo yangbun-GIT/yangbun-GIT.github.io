@@ -6,7 +6,7 @@ title: '<span style="font-size:75%">My Interests</span>'
 subtitle: ''
 active: true
 
-content:
+features:
   text: 아래는 저의 관심사에 대한 소개입니다! <br><br><br><br>
   items:
     - name: 인공지능(AI)

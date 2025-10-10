@@ -18,24 +18,20 @@ organizations:
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발에 관심을 가지고 있습니다.
+bio: A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발에 관심
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - 인공지능(A.I)
+  - 알고리즘
+  - 개발
+  - 네트워크
+  - 보안
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+    - course: IT정보공학과(재학중)
+      institution: 전북대학교
+      year: 2021~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

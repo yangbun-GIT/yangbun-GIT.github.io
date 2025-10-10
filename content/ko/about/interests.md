@@ -10,7 +10,6 @@ design:
   css_class: justify-text
   background:
     color: '#0f1fab'
-
 content:
   text: 아래는 저의 관심사에 대한 소개입니다! <br><br><br><br>
   items:

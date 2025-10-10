@@ -19,7 +19,7 @@ title: '소개'
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
-
+---
 sections:
   - block: about.avatar
     content:
@@ -69,5 +69,3 @@ sections:
       css_class: justify-text
       background:
         color: '#0f1fab'
----
-

@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 연락처
       text: ''
       email: yang_bun@jbnu.ac.kr
       phone: 010-4332-9597
@@ -42,16 +42,4 @@ sections:
     design:
       columns: '3'
 
-  - block: contact
-    content:
-      title: 문의
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          captcha: false
-          
-    design:
-      columns: '3'
 ---

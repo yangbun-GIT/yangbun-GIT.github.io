@@ -18,7 +18,7 @@ organizations:
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발에 관심을 가지고 있습니다.
 
 #interests:
 #- Artificial Intelligence

@@ -20,20 +20,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발에 관심
 
-#interests:
-#  - 인공지능(A.I)
-#  - 알고리즘
-#  - 개발
-#  - 네트워크
-#  - 보안
-interests: []
+interests:
+  - 인공지능
+  - 알고리즘
+  - 개발 
+  - 네트워크
+  - 보안
 
-#education:
-#  courses:
-#    - course: IT정보공학과(재학중)
-#      institution: 전북대학교
-#      year: 2021~
-education: []
+
+education:
+  courses:
+    - course: IT정보공학과(재학중)
+      institution: 전북대학교
+      year: 2021~
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

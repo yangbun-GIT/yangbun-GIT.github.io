@@ -6,7 +6,7 @@ title: '<span style="font-size:75%">My Interests</span>'
 subtitle: ''
 active: true
 design:
-  columns: '1'
+  columns: '3'
   css_class: justify-text
   background:
     color: '#0f1fab'

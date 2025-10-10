@@ -54,7 +54,7 @@ social:
     icon_pack: fab
     link: https://github.com/yangbun-GIT
     
-section:
+sections:
   - block: features
     id: features
     content:

@@ -10,7 +10,7 @@ design:
   css_class: justify-text
   background:
     color: '#0f1fab'
----
+
 content:
   text: 아래는 저의 관심사에 대한 소개입니다! <br><br><br><br>
   items:
@@ -38,4 +38,4 @@ content:
       icon: pen
       icon_pack: fas
       description: <span style="font-size:90%">글쓰기 관련 활동.</span><br><br>
-
+---

@@ -1,11 +1,11 @@
 ---
 # Homepage
-#type: widget_page
-title:
+# type: widget_page
+title: admin
 type: landing
 
 # Homepage is headless, other widget pages are not.
-#headless: true
+# headless: true
 
 sections:
   - block: about.avatar

@@ -39,13 +39,13 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: true
       
-    form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
 
     design:
       columns: '3'

@@ -21,11 +21,14 @@ main:
 
   #프로젝트 하위메뉴
   - name: 프로젝트1
+    parent: 프로젝트
     url: /
     weight: 42
   - name: 프로젝트2
+    parent: 프로젝트
     url: /
     weight: 44
   - name: 프로젝트3
+    parent: 프로젝트
     url: /
     weight: 46

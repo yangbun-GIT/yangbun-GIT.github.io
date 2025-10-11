@@ -1,6 +1,6 @@
 ---
 widget: slider
-headless: true
+headless: false
 weight: 20
 content:
   slides:

@@ -9,26 +9,26 @@ sections:
     content:
       title: ""
       text: |
-        <div style="text-align:center; font-size:2.5em; line-height:1.35;">
-          <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:180px; height:180px; border-radius:50%; object-fit:cover; margin-bottom:20px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
+        <div style="text-align:center; font-size:1.8rem; line-height:1.35;">
+          <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
 
-          <div style="font-weight:bold; margin-bottom:14px;">윤영준</div>
-          <div style="margin-bottom:12px; color:#bfc6d1;">
+          <div style="font-weight:bold; margin-bottom:13px;">윤영준</div>
+          <div style="margin-bottom:10px; color:#bfc6d1;">
             전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)
           </div>
-          <div style="margin-bottom:18px;">
+          <div style="margin-bottom:15px;">
             <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank" style="color:#5cd1e5; font-weight:bold;">전북대학교 컴퓨터인공지능학부</a>
           </div>
 
-          <div style="margin-bottom:18px;">
-            <a href="mailto:yang_bun@jbnu.ac.kr" style="margin:0 20px;"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/yangbun-GIT" style="margin:0 20px;"><i class="fab fa-github"></i></a>
-            <a href="https://kr.linkedin.com/" style="margin:0 20px;"><i class="fab fa-linkedin"></i></a>
-            <a href="https://x.com/" style="margin:0 20px;"><i class="fab fa-x-twitter"></i></a>
-            <a href="https://www.instagram.com/0_jun_03/" style="margin:0 20px;"><i class="fab fa-instagram"></i></a>
+          <div style="margin-bottom:13px;">
+            <a href="mailto:yang_bun@jbnu.ac.kr" style="margin:0 12px;"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/yangbun-GIT" style="margin:0 12px;"><i class="fab fa-github"></i></a>
+            <a href="https://kr.linkedin.com/" style="margin:0 12px;"><i class="fab fa-linkedin"></i></a>
+            <a href="https://x.com/" style="margin:0 12px;"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://www.instagram.com/0_jun_03/" style="margin:0 12px;"><i class="fab fa-instagram"></i></a>
           </div>
 
-          <div style="margin-bottom:10px;">
+          <div style="margin-bottom:8px;">
             전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 <b>윤영준</b>입니다.<br>
             저는 현재 3학년 2학기 과정을 수료중입니다.<br>
             이곳에서 <a href='/ko/about/'>소개</a> 저에 대한 정보를 확인할 수 있습니다.

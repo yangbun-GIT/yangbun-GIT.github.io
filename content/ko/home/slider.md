@@ -12,7 +12,7 @@ content:
       align: center
       background:
         image:
-          filename: media/icons/security1.jpg
+          filename: media/security.jpg
           filters:
             brightness: 0.4
         position: center
@@ -29,7 +29,7 @@ content:
       align: center
       background:
         image:
-          filename: media/icons/Ai1.jpg
+          filename: media/AI1.jpg
           filters:
             brightness: 0.5
         position: center
@@ -40,7 +40,7 @@ content:
       align: center
       background:
         image:
-          filename: media/icons/forensic.jpg
+          filename: media/forensic.jpg
           filters:
             brightness: 0.3
         position: center
@@ -51,7 +51,7 @@ content:
       align: center
       background:
         image:
-          filename: media/icons/mathematics1.jpg
+          filename: media/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center

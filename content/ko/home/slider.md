@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: security1.jpg
+          filename: assets/media/security.jpg
           filters:
             brightness: 0.4
         position: center
@@ -26,7 +26,7 @@ content:
       align: center
       background:
         image:
-          filename: Ai1.jpg
+          filename: assets/media/Ai1.jpg
           filters:
             brightness: 0.5
         position: center
@@ -37,7 +37,7 @@ content:
       align: center
       background:
         image:
-          filename: forensic.jpg
+          filename: assets/media/forensic.jpg
           filters:
             brightness: 0.3
         position: center
@@ -48,11 +48,12 @@ content:
       align: center
       background:
         image:
-          filename: mathematics1.jpg
+          filename: assets/media/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center
         color: '#bd4646'
+
 design:
   slide_height: '600px'
   slide_width: '100px'
@@ -60,6 +61,5 @@ design:
   loop: true
   interval: 3000
 ---
-
 
 

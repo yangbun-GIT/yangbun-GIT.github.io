@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: security.jpg # static 폴더 기준의 절대 경로 사용
+          filename: assets/media/security.jpg
           filters:
             brightness: 0.4
         position: center
@@ -20,7 +20,7 @@ content:
       align: center
       background:
         image:
-          filename: ai.jpg       # static 폴더 기준의 절대 경로 사용
+          filename: assets/media/ai.jpg
           filters:
             brightness: 0.5
         position: center
@@ -31,7 +31,7 @@ content:
       align: center
       background:
         image:
-          filename: for.jpg  # static 폴더 기준의 절대 경로 사용
+          filename: assets/media/for.jpg
           filters:
             brightness: 0.3
         position: center
@@ -42,7 +42,7 @@ content:
       align: center
       background:
         image:
-          filename: math.jpg # static 폴더 기준의 절대 경로 사용
+          filename: assets/media/math.jpg
           filters:
             brightness: 0.4
         position: center

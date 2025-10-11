@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: media/security.jpg
+          filename: assets/media/security.jpg
           filters:
             brightness: 0.4
         position: center
@@ -26,7 +26,7 @@ content:
       align: center
       background:
         image:
-          filename: media/Ai1.jpg  # 이 부분을 수정하세요.
+          filename: assets/media/Ai1.jpg
           filters:
             brightness: 0.5
         position: center
@@ -37,7 +37,7 @@ content:
       align: center
       background:
         image:
-          filename: media/forensic.jpg
+          filename: assets/media/forensic.jpg
           filters:
             brightness: 0.3
         position: center
@@ -48,7 +48,7 @@ content:
       align: center
       background:
         image:
-          filename: media/mathematics1.jpg
+          filename: assets/media/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center

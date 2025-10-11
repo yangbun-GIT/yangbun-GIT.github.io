@@ -9,10 +9,10 @@ sections:
     content:
       title: ""
       text: |
-        <div style="text-align:center; font-size:1rem; line-height:1.35;">
+        <div style="text-align:center; font-size:1.3rem; line-height:1.35;">
           <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:150px; height:150px; border-radius:50%; object-fit:cover; filter:brightness(0.85); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
 
-          <div style="font-weight:bold; margin-bottom:13px;">윤영준</div>
+          <div style="font-weight:bold; font-size:1.5rem; margin-bottom:13px;">윤영준</div>
           <div style="margin-bottom:10px; color:#bfc6d1;">
             전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)
           </div>
@@ -21,11 +21,11 @@ sections:
           </div>
 
           <div style="margin-bottom:13px;">
-            <a href="mailto:yang_bun@jbnu.ac.kr" style="margin:0 12px;"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/yangbun-GIT" style="margin:0 12px;"><i class="fab fa-github"></i></a>
-            <a href="https://kr.linkedin.com/" style="margin:0 12px;"><i class="fab fa-linkedin"></i></a>
-            <a href="https://x.com/" style="margin:0 12px;"><i class="fab fa-x-twitter"></i></a>
-            <a href="https://www.instagram.com/0_jun_03/" style="margin:0 12px;"><i class="fab fa-instagram"></i></a>
+            <a href="mailto:yang_bun@jbnu.ac.kr" style="margin:0 8px; font-size:1.5em;"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/yangbun-GIT" style="margin:0 8px; font-size:1.5em;"><i class="fab fa-github"></i></a>
+            <a href="https://kr.linkedin.com/" style="margin:0 8px; font-size:1.5em;"><i class="fab fa-linkedin"></i></a>
+            <a href="https://x.com/" style="margin:0 8px; font-size:1.5em;"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://www.instagram.com/0_jun_03/" style="margin:0 8px; font-size:1.5em;"><i class="fab fa-instagram"></i></a>
           </div>
 
           <div style="margin-bottom:8px;">

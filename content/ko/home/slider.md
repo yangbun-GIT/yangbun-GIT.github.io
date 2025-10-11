@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: assets/media/security.jpg
+          filename: image/security.jpg
           filters:
             brightness: 0.4
         position: center
@@ -26,7 +26,7 @@ content:
       align: center
       background:
         image:
-          filename: assets/media/Ai1.jpg
+          filename: image/Ai1.jpg
           filters:
             brightness: 0.5
         position: center
@@ -37,7 +37,7 @@ content:
       align: center
       background:
         image:
-          filename: assets/media/forensic.jpg
+          filename: image/forensic.jpg
           filters:
             brightness: 0.3
         position: center
@@ -48,7 +48,7 @@ content:
       align: center
       background:
         image:
-          filename: assets/media/mathematics1.jpg
+          filename: image/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center
@@ -61,3 +61,4 @@ design:
   loop: true
   interval: 3000
 ---
+

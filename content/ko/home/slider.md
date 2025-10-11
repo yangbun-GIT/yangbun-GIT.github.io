@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: assets/media/security.jpg
+          filename: assets/media/Security.jpg
           filters:
             brightness: 0.4
         position: center

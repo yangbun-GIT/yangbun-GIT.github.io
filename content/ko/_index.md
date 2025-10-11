@@ -38,69 +38,86 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:70%; font-weight:bold;">정보보안</span>
+        - title: <span style="font-size:70%; font-weight:bold;">A.I</span>
           content: |
             <div style="position: relative; font-size: 75%;">
               <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
-                중요해지고 있는 정보보안 및 사이버 보안
+                현실을 혁신하는 지능형 패턴 탐색
               </div>
             </div>
           align: center
           background:
             image:
-              filename: security.jpg
+              filename: AI.jpg
               filters:
                brightness: 0.4
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%; font-weight:bold;">AI</span>
+        - title: <span style="font-size:70%; font-weight:bold;">알고리즘</span>
           content: |
             <div style="position: relative; font-size: 75%;">
               <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
-                비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발
+                데이터 흐름을 최적화하는 혁신적 알고리즘
               </div>
             </div>
           align: center
           background:
             image:
-              filename: ai.jpg
+              filename: Algorithm.jpg
               filters:
                 brightness: 0.4
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%; font-weight:bold;">디지털포렌식</span>
+        - title: <span style="font-size:70%; font-weight:bold;">개발</span>
           content: |
             <div style="position: relative; font-size: 75%;">
               <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
-                사이버수사대 디지털포렌식 중요도 증가
+                최신 트렌드를 반영한 유연한 소프트웨어 제작
               </div>
             </div>
           align: center
           background:
             image:
-              filename: for.jpg
+              filename: Develop.jpg
               filters:
                 brightness: 0.4
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%; font-weight:bold;">Math</span>
+        - title: <span style="font-size:70%; font-weight:bold;">네트워크</span>
           content: |
             <div style="position: relative; font-size: 75%;">
               <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
-                데이터마이닝 및 AI 활용 수학 연구
+                분산 환경에서 안정적인 데이터 흐름을 보장
               </div>
             </div>
           align: center
           background:
             image:
-              filename: math.jpg
+              filename: Network.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
+            
+        - title: <span style="font-size:70%; font-weight:bold;">보안</span>
+          content: |
+            <div style="position: relative; font-size: 75%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
+              <div style="position: relative; z-index: 2; color: white;">
+                지능형 위협 분석으로 사이버 위험을 사전에 차단
+              </div>
+            </div>
+          align: center
+          background:
+            image:
+              filename: Security.jpg
               filters:
                 brightness: 0.4
             position: center

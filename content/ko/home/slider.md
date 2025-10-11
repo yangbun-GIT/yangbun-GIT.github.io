@@ -9,7 +9,8 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/security.jpg
+          # static 폴더를 기준으로 상대 경로를 수정합니다.
+          filename: media/security.jpg
           filters:
             brightness: 0.4
         position: center
@@ -26,7 +27,8 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/AI.jpg
+          # static 폴더를 기준으로 상대 경로를 수정합니다.
+          filename: media/AI.jpg
           filters:
             brightness: 0.5
         position: center
@@ -37,7 +39,8 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/forensic.jpg
+          # static 폴더를 기준으로 상대 경로를 수정합니다.
+          filename: media/forensic.jpg
           filters:
             brightness: 0.3
         position: center
@@ -48,7 +51,8 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/mathematics1.jpg
+          # static 폴더를 기준으로 상대 경로를 수정합니다.
+          filename: media/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center

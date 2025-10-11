@@ -10,7 +10,7 @@ sections:
       title: ""
       text: |
         <div style="text-align:center; font-size:1.2rem; line-height:1.35;">
-          <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:150px; height:150px; border-radius:50%; object-fit:cover; filter:brightness(0.85); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
+          <img src="avatar.jpg" alt="프로필 이미지" style="width:150px; height:150px; border-radius:50%; object-fit:cover; filter:brightness(0.95); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
 
           <div style="font-weight:bold; font-size:1.6rem; margin-bottom:13px;">윤영준</div>
           <div style="margin-bottom:10px; color:#bfc6d1;">

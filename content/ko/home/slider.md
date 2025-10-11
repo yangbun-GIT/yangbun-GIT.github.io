@@ -1,10 +1,7 @@
 ---
 widget: slider
-
 headless: true
-
 weight: 20
-
 content:
   slides:
     - title: <span style="font-size:70%">정보보안</span>
@@ -12,9 +9,11 @@ content:
       align: center
       background:
         image:
-          filename: media/security.jpg
+          filename: security.jpg
           filters:
             brightness: 0.4
+          # assets 폴더에서 이미지를 불러오기 위한 Hugo 함수
+          image_src: "{{ .Page.Resources.GetMatch \"media/security.jpg\" }}"
         position: center
         color: '#1dc6f5'
       link:
@@ -29,9 +28,10 @@ content:
       align: center
       background:
         image:
-          filename: media/AI1.jpg
+          filename: AI1.jpg
           filters:
             brightness: 0.5
+          image_src: "{{ .Page.Resources.GetMatch \"media/AI1.jpg\" }}"
         position: center
         color: '#d346e3'
 
@@ -40,9 +40,10 @@ content:
       align: center
       background:
         image:
-          filename: media/forensic.jpg
+          filename: forensic.jpg
           filters:
             brightness: 0.3
+          image_src: "{{ .Page.Resources.GetMatch \"media/forensic.jpg\" }}"
         position: center
         color: '#7986ba'
 
@@ -51,9 +52,10 @@ content:
       align: center
       background:
         image:
-          filename: media/mathematics1.jpg
+          filename: mathematics1.jpg
           filters:
             brightness: 0.4
+          image_src: "{{ .Page.Resources.GetMatch \"media/mathematics1.jpg\" }}"
         position: center
         color: '#bd4646'
 

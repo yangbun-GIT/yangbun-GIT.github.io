@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: security.jpg # 경로를 파일 이름만으로 수정
+          filename: /media/security.jpg # static 폴더 기준의 절대 경로 사용
           filters:
             brightness: 0.4
         position: center
@@ -20,7 +20,7 @@ content:
       align: center
       background:
         image:
-          filename: AI.jpg # 경로를 파일 이름만으로 수정
+          filename: /media/AI.jpg       # static 폴더 기준의 절대 경로 사용
           filters:
             brightness: 0.5
         position: center
@@ -31,7 +31,7 @@ content:
       align: center
       background:
         image:
-          filename: forensic.jpg # 경로를 파일 이름만으로 수정
+          filename: /media/forensic.jpg  # static 폴더 기준의 절대 경로 사용
           filters:
             brightness: 0.3
         position: center
@@ -42,7 +42,7 @@ content:
       align: center
       background:
         image:
-          filename: mathematics1.jpg # 경로를 파일 이름만으로 수정
+          filename: /media/mathematics1.jpg # static 폴더 기준의 절대 경로 사용
           filters:
             brightness: 0.4
         position: center

@@ -20,7 +20,7 @@ content:
       align: center
       background:
         image:
-          filename: Ai1.jpg
+          filename: AI.jpg
           filters:
             brightness: 0.5
         position: center

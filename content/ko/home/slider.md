@@ -9,44 +9,50 @@ content:
       align: center
       background:
         image:
-          filename: security.jpg
+          filename: /assets/media/security.jpg
           filters:
             brightness: 0.4
         position: center
-        color: '#000'
+        color: '#1dc6f5'
+      link:
+        icon: user
+        icon_pack: fas
+        text: <span style="font-size:60%">Join Us</span>
+        text-color: '#154ed4'
+        url: contact
 
     - title: <span style="font-size:70%">AI</span>
       content: <span style="font-size:70%">비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발</span>
       align: center
       background:
         image:
-          filename: AI.jpg
+          filename: /assets/media/AI.jpg
           filters:
             brightness: 0.5
         position: center
-        color: '#000'
+        color: '#d346e3'
 
     - title: <span style="font-size:70%">디지털포렌식</span>
       content: <span style="font-size:70%">사이버수사대 디지털포렌식 중요도 증가</span>
       align: center
       background:
         image:
-          filename: forensic.jpg
+          filename: /assets/media/forensic.jpg
           filters:
             brightness: 0.3
         position: center
-        color: '#000'
+        color: '#7986ba'
 
     - title: <span style="font-size:70%">Math</span>
       content: <span style="font-size:70%">데이터마이닝 및 AI 활용 수학 연구</span>
       align: center
       background:
         image:
-          filename: mathematics1.jpg
+          filename: /assets/media/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center
-        color: '#000'
+        color: '#bd4646'
 
 design:
   slide_height: '600px'

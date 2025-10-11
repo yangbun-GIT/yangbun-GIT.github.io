@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: ../../assets/media/security.jpg  # 이 부분을 수정
+          filename: security.jpg # 경로를 파일 이름만으로 수정
           filters:
             brightness: 0.4
         position: center
@@ -20,7 +20,7 @@ content:
       align: center
       background:
         image:
-          filename: ../../assets/media/AI.jpg       # 이 부분을 수정
+          filename: AI.jpg # 경로를 파일 이름만으로 수정
           filters:
             brightness: 0.5
         position: center
@@ -31,7 +31,7 @@ content:
       align: center
       background:
         image:
-          filename: ../../assets/media/forensic.jpg  # 이 부분을 수정
+          filename: forensic.jpg # 경로를 파일 이름만으로 수정
           filters:
             brightness: 0.3
         position: center
@@ -42,7 +42,7 @@ content:
       align: center
       background:
         image:
-          filename: ../../assets/media/mathematics1.jpg # 이 부분을 수정
+          filename: mathematics1.jpg # 경로를 파일 이름만으로 수정
           filters:
             brightness: 0.4
         position: center

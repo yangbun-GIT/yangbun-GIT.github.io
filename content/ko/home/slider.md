@@ -9,26 +9,18 @@ content:
       align: center
       background:
         image:
-          # static 폴더를 기준으로 상대 경로를 수정합니다.
-          filename: media/security.jpg
+          filename: ../../assets/media/security.jpg  # 이 부분을 수정
           filters:
             brightness: 0.4
         position: center
         color: '#1dc6f5'
-      link:
-        icon: user
-        icon_pack: fas
-        text: <span style="font-size:60%">Join Us</span>
-        text-color: '#154ed4'
-        url: contact
 
     - title: <span style="font-size:70%">AI</span>
       content: <span style="font-size:70%">비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발</span>
       align: center
       background:
         image:
-          # static 폴더를 기준으로 상대 경로를 수정합니다.
-          filename: media/AI.jpg
+          filename: ../../assets/media/AI.jpg       # 이 부분을 수정
           filters:
             brightness: 0.5
         position: center
@@ -39,8 +31,7 @@ content:
       align: center
       background:
         image:
-          # static 폴더를 기준으로 상대 경로를 수정합니다.
-          filename: media/forensic.jpg
+          filename: ../../assets/media/forensic.jpg  # 이 부분을 수정
           filters:
             brightness: 0.3
         position: center
@@ -51,8 +42,7 @@ content:
       align: center
       background:
         image:
-          # static 폴더를 기준으로 상대 경로를 수정합니다.
-          filename: media/mathematics1.jpg
+          filename: ../../assets/media/mathematics1.jpg # 이 부분을 수정
           filters:
             brightness: 0.4
         position: center

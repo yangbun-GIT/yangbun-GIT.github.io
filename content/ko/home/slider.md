@@ -9,9 +9,9 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/security.jpg
-          # filters:
-          #   brightness: 0.4
+          filename: /media/security.jpg
+          filters:
+            brightness: 0.4
         position: center
         color: '#1dc6f5'
       link:
@@ -26,9 +26,9 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/Ai1.jpg
-          # filters:
-          #   brightness: 0.5
+          filename: /media/Ai1.jpg
+          filters:
+            brightness: 0.5
         position: center
         color: '#d346e3'
 
@@ -37,9 +37,9 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/forensic.jpg
-          # filters:
-          #   brightness: 0.3
+          filename: /media/forensic.jpg
+          filters:
+            brightness: 0.3
         position: center
         color: '#7986ba'
 
@@ -48,9 +48,9 @@ content:
       align: center
       background:
         image:
-          filename: /assets/media/mathematics1.jpg
-          # filters:
-          #   brightness: 0.4
+          filename: /media/mathematics1.jpg
+          filters:
+            brightness: 0.4
         position: center
         color: '#bd4646'
 
@@ -61,5 +61,4 @@ design:
   loop: true
   interval: 3000
 ---
-
 

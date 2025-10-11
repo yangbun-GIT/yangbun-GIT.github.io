@@ -12,7 +12,7 @@ content:
       align: center
       background:
         image:
-          filename: security1.jpg
+          filename: media/icons/security1.jpg
           filters:
             brightness: 0.4
         position: center
@@ -25,11 +25,11 @@ content:
         url: contact
 
     - title: <span style="font-size:70%">AI</span>
-      content: <span style="font-size:70%">비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
+      content: <span style="font-size:70%">비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발</span>
       align: center
       background:
         image:
-          filename: Ai1.jpg
+          filename: media/icons/Ai1.jpg
           filters:
             brightness: 0.5
         position: center
@@ -40,7 +40,7 @@ content:
       align: center
       background:
         image:
-          filename: forensic.jpg
+          filename: media/icons/forensic.jpg
           filters:
             brightness: 0.3
         position: center
@@ -51,7 +51,7 @@ content:
       align: center
       background:
         image:
-          filename: mathematics1.jpg
+          filename: media/icons/mathematics1.jpg
           filters:
             brightness: 0.4
         position: center
@@ -64,3 +64,4 @@ design:
   loop: true
   interval: 3000
 ---
+

@@ -40,8 +40,8 @@ sections:
       slides:
         - title: <span style="font-size:70%; font-weight:bold;">정보보안</span>
           content: |
-            <div style="position: relative; font-size: 65%;">
-              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+            <div style="position: relative; font-size: 75%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
                 중요해지고 있는 정보보안 및 사이버 보안
               </div>
@@ -51,14 +51,14 @@ sections:
             image:
               filename: security.jpg
               filters:
-               brightness: 0.4
+               brightness: 0.6
             position: center
             color: '#000'
 
         - title: <span style="font-size:70%; font-weight:bold;">AI</span>
           content: |
-            <div style="position: relative; font-size: 65%;">
-              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+            <div style="position: relative; font-size: 75%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
                 비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발
               </div>
@@ -68,14 +68,14 @@ sections:
             image:
               filename: ai.jpg
               filters:
-                brightness: 0.5
+                brightness: 0.6
             position: center
             color: '#000'
 
         - title: <span style="font-size:70%; font-weight:bold;">디지털포렌식</span>
           content: |
-            <div style="position: relative; font-size: 65%;">
-              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+            <div style="position: relative; font-size: 75%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
                 사이버수사대 디지털포렌식 중요도 증가
               </div>
@@ -85,14 +85,14 @@ sections:
             image:
               filename: for.jpg
               filters:
-                brightness: 0.3
+                brightness: 0.6
             position: center
             color: '#000'
 
         - title: <span style="font-size:70%; font-weight:bold;">Math</span>
           content: |
-            <div style="position: relative; font-size: 65%;">
-              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+            <div style="position: relative; font-size: 75%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
               <div style="position: relative; z-index: 2; color: white;">
                 데이터마이닝 및 AI 활용 수학 연구
               </div>
@@ -102,9 +102,10 @@ sections:
             image:
               filename: math.jpg
               filters:
-                brightness: 0.4
+                brightness: 0.6
             position: center
             color: '#000'
+            
     design:
       slide_height: '400px'
       slide_width: '100px'

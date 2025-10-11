@@ -11,6 +11,8 @@ sections:
     id: intro
   - block: slider
     id: slider
+    content:
+      path: slider
   - block: portfolio
     id: portfolio
 ---

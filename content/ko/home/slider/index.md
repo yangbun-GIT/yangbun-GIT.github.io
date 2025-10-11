@@ -9,7 +9,7 @@ content:
       align: center
       background:
         image:
-          filename: /media/security.jpg
+          filename: security.jpg # 수정: 경로 없이 파일명만
           filters:
             brightness: 0.4
         position: center
@@ -26,7 +26,7 @@ content:
       align: center
       background:
         image:
-          filename: /media/Ai1.jpg
+          filename: Ai1.jpg # 수정: 경로 없이 파일명만
           filters:
             brightness: 0.5
         position: center
@@ -37,7 +37,7 @@ content:
       align: center
       background:
         image:
-          filename: /media/forensic.jpg
+          filename: forensic.jpg # 수정: 경로 없이 파일명만
           filters:
             brightness: 0.3
         position: center
@@ -48,7 +48,7 @@ content:
       align: center
       background:
         image:
-          filename: /media/mathematics1.jpg
+          filename: mathematics1.jpg # 수정: 경로 없이 파일명만
           filters:
             brightness: 0.4
         position: center
@@ -61,4 +61,3 @@ design:
   loop: true
   interval: 3000
 ---
-

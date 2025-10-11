@@ -7,25 +7,25 @@ type: landing
 sections:
   - block: features
     content:
-    title: ""
-    text: |
-      <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:120px; border-radius:50%; margin-bottom:10px;" />
+      title: ""
+      text: |
+        <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:120px; border-radius:50%; margin-bottom:10px;" />
 
-      <div style="font-size:1.6em; font-weight:bold; margin-bottom:4px;">윤영준</div>
-      <div style="font-size:1em; margin-bottom:6px;">전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)</div>
-      <div style="margin-bottom:6px;">
-        <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank">전북대학교 컴퓨터인공지능학부</a>
-      </div>
+        <div style="font-size:1.6em; font-weight:bold; margin-bottom:4px;">윤영준</div>
+        <div style="font-size:1em; margin-bottom:6px;">전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)</div>
+        <div style="margin-bottom:6px;">
+          <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank">전북대학교 컴퓨터인공지능학부</a>
+        </div>
 
-      <a href="mailto:yang_bun@jbnu.ac.kr"><i class="fas fa-envelope"></i></a>
-      <a href="https://github.com/yangbun-GIT"><i class="fab fa-github"></i></a>
-      <a href="https://x.com/"><i class="fab fa-x-twitter"></i></a>
-      <a href="https://kr.linkedin.com/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.instagram.com/0_jun_03/"><i class="fab fa-instagram"></i></a>
+        <a href="mailto:yang_bun@jbnu.ac.kr"><i class="fas fa-envelope"></i></a>
+        <a href="https://github.com/yangbun-GIT"><i class="fab fa-github"></i></a>
+        <a href="https://x.com/"><i class="fab fa-x-twitter"></i></a>
+        <a href="https://kr.linkedin.com/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.instagram.com/0_jun_03/"><i class="fab fa-instagram"></i></a>
 
-      전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 **윤영준**입니다.  
-      저는 현재 3학년 2학기 과정을 수료중입니다.  
-      이곳에서   "<a href='/ko/about/'>소개</a>"  저에 대한 정보를 확인할 수 있습니다.
+        전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 **윤영준**입니다.  
+        저는 현재 3학년 2학기 과정을 수료중입니다.  
+        이곳에서   "<a href='/ko/about/'>소개</a>"  저에 대한 정보를 확인할 수 있습니다.
 
   - block: slider
     content:

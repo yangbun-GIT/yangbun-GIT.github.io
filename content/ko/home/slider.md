@@ -10,10 +10,8 @@ content:
       background:
         image:
           filename: image/security.jpg
-          filters:
-            brightness: 0.4
         position: center
-        color: '#1dc6f5'
+        # color: '#1dc6f5'  # 주석 처리(이미지 위 컬러X)
       link:
         icon: user
         icon_pack: fas
@@ -27,10 +25,7 @@ content:
       background:
         image:
           filename: image/Ai1.jpg
-          filters:
-            brightness: 0.5
         position: center
-        color: '#d346e3'
 
     - title: <span style="font-size:70%">디지털포렌식</span>
       content: <span style="font-size:70%">사이버수사대 디지털포렌식 중요도 증가</span>
@@ -38,10 +33,7 @@ content:
       background:
         image:
           filename: image/forensic.jpg
-          filters:
-            brightness: 0.3
         position: center
-        color: '#7986ba'
 
     - title: <span style="font-size:70%">Math</span>
       content: <span style="font-size:70%">데이터마이닝 및 AI 활용 수학 연구</span>
@@ -49,10 +41,7 @@ content:
       background:
         image:
           filename: image/mathematics1.jpg
-          filters:
-            brightness: 0.4
         position: center
-        color: '#bd4646'
 
 design:
   slide_height: '600px'
@@ -61,4 +50,5 @@ design:
   loop: true
   interval: 3000
 ---
+
 

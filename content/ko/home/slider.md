@@ -26,7 +26,7 @@ content:
       align: center
       background:
         image:
-          filename: media/AI1.jpg
+          filename: media/Ai1.jpg  # 이 부분을 수정하세요.
           filters:
             brightness: 0.5
         position: center
@@ -61,4 +61,3 @@ design:
   loop: true
   interval: 3000
 ---
-

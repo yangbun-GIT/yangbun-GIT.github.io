@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-03-25
+
 type: landing
 
 sections:
@@ -10,7 +10,7 @@ sections:
       title: ""
       text: |
         <div style="text-align:center; font-size:1.2rem; line-height:1.35;">
-          <img src="avatar.jpg" alt="프로필 이미지" style="width:150px; height:150px; border-radius:50%; object-fit:cover; filter:brightness(0.95); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
+          <img src="/ko/authors/admin/avatar.jpg" alt="프로필 이미지" style="width:150px; height:150px; border-radius:50%; object-fit:cover; filter:brightness(0.95); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
 
           <div style="font-weight:bold; font-size:1.6rem; margin-bottom:13px;">윤영준</div>
           <div style="margin-bottom:10px; color:#bfc6d1;">
@@ -38,19 +38,31 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:70%">정보보안</span>
-          content: <span style="font-size:70%">중요해지고 있는 정보보안 및 사이버 보안</span>
+        - title: <span style="font-size:70%; font-weight:bold;">정보보안</span>
+          content: |
+            <div style="position: relative; font-size: 65%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+              <div style="position: relative; z-index: 2; color: white;">
+                중요해지고 있는 정보보안 및 사이버 보안
+              </div>
+            </div>
           align: center
           background:
             image:
               filename: security.jpg
               filters:
-                brightness: 0.4
+               brightness: 0.4
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%">AI</span>
-          content: <span style="font-size:70%">비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발</span>
+        - title: <span style="font-size:70%; font-weight:bold;">AI</span>
+          content: |
+            <div style="position: relative; font-size: 65%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+              <div style="position: relative; z-index: 2; color: white;">
+                비전/데이터마이닝 분야에 적용 가능한 AI 기술 개발
+              </div>
+            </div>
           align: center
           background:
             image:
@@ -60,8 +72,14 @@ sections:
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%">디지털포렌식</span>
-          content: <span style="font-size:70%">사이버수사대 디지털포렌식 중요도 증가</span>
+        - title: <span style="font-size:70%; font-weight:bold;">디지털포렌식</span>
+          content: |
+            <div style="position: relative; font-size: 65%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+              <div style="position: relative; z-index: 2; color: white;">
+                사이버수사대 디지털포렌식 중요도 증가
+              </div>
+            </div>
           align: center
           background:
             image:
@@ -71,8 +89,14 @@ sections:
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%">Math</span>
-          content: <span style="font-size:70%">데이터마이닝 및 AI 활용 수학 연구</span>
+        - title: <span style="font-size:70%; font-weight:bold;">Math</span>
+          content: |
+            <div style="position: relative; font-size: 65%;">
+              <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+              <div style="position: relative; z-index: 2; color: white;">
+                데이터마이닝 및 AI 활용 수학 연구
+              </div>
+            </div>
           align: center
           background:
             image:

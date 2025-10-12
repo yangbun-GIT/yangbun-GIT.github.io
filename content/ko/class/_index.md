@@ -56,7 +56,7 @@ sections:
           - mining
           - beginner
     design:
-      view: custom_card
+      view: community/custom_card
       columns: '3'
       css_class: justify-text
 ---

@@ -58,9 +58,6 @@ social:
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/
   
     
 # Link to a PDF of your resume/CV from the About widget.

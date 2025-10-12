@@ -16,7 +16,7 @@ sections:
       # --- 이 부분을 추가하여 이미지를 배경으로 설정합니다 ---
       background:
         # assets/media/ 폴더에 있는 이미지 파일을 배경으로 지정
-        image: 'study.jpg'
+        filename: 'study.jpg'
 
         # 이미지가 위젯 크기에 맞춰 공백 없이 꽉 채우도록 설정
         image_size: cover

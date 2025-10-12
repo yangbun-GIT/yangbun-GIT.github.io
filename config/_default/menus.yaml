@@ -17,7 +17,7 @@ main:
     weight: 50
 
   #경력 하위 메뉴
-  - name: 학습 과목
+  - name: 학습 교과
     parent: 경력
     url: class/
     weight: 55

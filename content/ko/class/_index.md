@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 학습 교과
 
 type: landing
 
@@ -41,4 +41,22 @@ sections:
           icon_pack: fas
           description:  <span style="font-size:90%">시스템 취약점 분석 및 시큐어 코딩을 통한 견고한 소프트웨어 보안 구축</span><br><br>
 
+  - block: collection
+    content:
+      id: section-1
+      title: 학습 교과
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - ML
+          - mining
+          - beginner
+    design:
+      view: custom_card
+      columns: '3'
+      css_class: justify-text
 ---

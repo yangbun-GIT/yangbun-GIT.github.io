@@ -5,6 +5,10 @@ name = "Purple Mood"
   # Primary
   primary = "#673ab7"  # 차분하고 세련된 보라색으로 변경
 
+  # Links
+  link = "#673ab7"  # 라이트 모드에서 링크 색상을 주 색상인 보라색으로
+  link_hover = "#512da8"  # 마우스 올렸을 때 더 진한 보라색으로 변경
+
   # Menu
   menu_primary = "rgb(247, 250, 252)"
   menu_text = "#673ab7"  # 라이트 모드에서 메뉴 텍스트를 메인 보라색으로
@@ -27,8 +31,8 @@ name = "Purple Mood"
   background = "rgb(26, 32, 44)"
 
   # Home sections
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(35, 31, 42)"  # 어두운 보라색 톤으로 구분감 제공
+  home_section_odd = "#1d143c"  # 매우 어두운 인디고-보라색
+  home_section_even = "#2f2268" # 구분감을 위한 더 진한 보라색
 
   # Menu
   menu_primary = "rgb(26, 32, 44)"

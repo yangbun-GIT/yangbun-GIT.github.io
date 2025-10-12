@@ -1,25 +1,36 @@
-# Essentially Minimal theme but with constant home section bg color.
-name = "Starter Blog"
+# 보라색 기반의 커스텀 테마
+name = "Purple Mood"
 
 [light]
   # Primary
-  primary = "#2962ff"
+  primary = "#673ab7"  # 차분하고 세련된 보라색으로 변경
 
   # Menu
   menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
+  menu_text = "#673ab7"  # 라이트 모드에서 메뉴 텍스트를 메인 보라색으로
+  menu_text_active = "#512da8"  # 더 진한 보라색으로 메뉴 활성화 색상 설정
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+  home_section_odd = "rgb(243, 242, 245)"  # 매우 밝은 라벤더 색으로 변경해 배경에 변화를 줌
+  home_section_even = "rgb(237, 231, 246)"  # 밝은 라벤더 색으로 구분감 제공
 
 [dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  # Primary
+  primary = "#9575cd"  # 다크 모드에서 잘 보이는 밝은 보라색
+
+  # Links
+  link = "#9575cd"
+  link_hover = "#b39ddb" # 마우스를 올렸을 때 더 밝은 보라색으로
+
+  # Background
   background = "rgb(26, 32, 44)"
+
+  # Home sections
   home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
+  home_section_even = "rgb(35, 31, 42)"  # 어두운 보라색 톤으로 구분감 제공
+
+  # Menu
   menu_primary = "rgb(26, 32, 44)"
+  menu_text = "#ffffff"  # 다크 모드에서 메뉴 텍스트를 흰색으로 설정
+  menu_text_active = "#9575cd"  # 다크 모드에서 메뉴 활성화 색상을 메인 보라색으로 설정

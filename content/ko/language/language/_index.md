@@ -7,5 +7,5 @@ view: custom_card
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: ''
+  image: 'learn_language.jpg'
 ---

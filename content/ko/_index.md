@@ -49,7 +49,7 @@ sections:
           align: center
           background:
             image:
-              filename: AI.jpg
+              filename: shawn-day-ii6BOPjAtVY-unsplash.jpg
               filters:
                brightness: 0.4
             position: center
@@ -83,7 +83,7 @@ sections:
           align: center
           background:
             image:
-              filename: Develop.jpg
+              filename: chris-ried-ieic5Tq8YMk-unsplash.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -100,7 +100,7 @@ sections:
           align: center
           background:
             image:
-              filename: Network.jpg
+              filename: nasa-Q1p7bh3SHj8-unsplash.jpg
               filters:
                 brightness: 0.4
             position: center

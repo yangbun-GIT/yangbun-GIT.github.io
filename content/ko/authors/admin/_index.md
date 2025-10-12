@@ -49,18 +49,19 @@ social:
   - icon: notion
     icon_pack: fab
     link: https://www.notion.so/Class-Note-0ff73b88f3f445d7996515e90cb92820?source=copy_link
-  - icon: stack-overflow
-    icon_pack: fab
-    link: https://stackoverflow.com/questions
   - icon: linkedin
     icon_pack: fab
     link: https://kr.linkedin.com/
-  - icon: x-twitter
+  - icon: stack-overflow
     icon_pack: fab
-    link: https://x.com/
+    link: https://stackoverflow.com/questions
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/0_jun_03/
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://x.com/
+  
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

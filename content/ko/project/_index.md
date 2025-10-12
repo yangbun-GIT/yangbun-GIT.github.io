@@ -6,6 +6,6 @@ view: custom_card
 
 banner:
   caption: ''
-  image: 'logo.jpg'
+  image: 'project.jpg'
 
 ---

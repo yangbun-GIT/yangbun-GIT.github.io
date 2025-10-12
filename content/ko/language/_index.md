@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 가능한 언어
+title: 학습한 언어
 
 view: custom_card
 

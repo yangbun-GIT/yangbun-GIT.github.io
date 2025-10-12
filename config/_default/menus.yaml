@@ -4,7 +4,7 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 메인
+  - name: 홈
     url: /
     weight: 10
 
@@ -12,7 +12,7 @@ main:
     url: about/
     weight: 30
 
-  #경력 메뉴 (부모)
+  #경력 메뉴 (부모) - 드롭다운
   - name: 경력
     weight: 50
 
@@ -21,16 +21,7 @@ main:
     parent: 경력
     url: class/
     weight: 55
-    children:
-      - name: 기계학습
-        url: /class/ML
-        weight: 56
-      - name: 데이터마이닝
-        url: /class/mining
-        weight: 57
-      - name: 초급프로젝트
-        url: /class/beginner
-        weight: 58
+
   - name: 프로그래밍 언어
     parent: 경력
     url: language/
@@ -50,20 +41,20 @@ main:
   - name: 프로젝트
     url: project
     weight: 70
-
-  #프로젝트 하위 메뉴
-  - name: 리눅스-채팅 프로그램
-    parent: 프로젝트
-    url: /project/Chat
-    weight: 75
-  - name: 데이터베이스 설계
-    parent: 프로젝트
-    url: /project/Database
-    weight: 80
-  - name: 포트폴리오 제작
-    parent: 프로젝트
-    url: /project/Portfolio
-    weight: 85
+    children:
+      #프로젝트 하위 메뉴
+      - name: 리눅스-채팅 프로그램
+        parent: 프로젝트
+        url: /project/Chat
+        weight: 75
+      - name: 데이터베이스 설계
+        parent: 프로젝트
+        url: /project/Database
+        weight: 80
+      - name: 포트폴리오 제작
+        parent: 프로젝트
+        url: /project/Portfolio
+        weight: 85
 
   - name: 연락처
     url: /contact

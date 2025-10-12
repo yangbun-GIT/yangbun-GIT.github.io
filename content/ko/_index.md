@@ -43,7 +43,6 @@ sections:
   - block: markdown
     content:
       text: |
-  
     design:
       columns: '1'
 

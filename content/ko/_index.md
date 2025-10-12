@@ -177,7 +177,7 @@ sections:
       order: desc
       filters:
         folders:
-          - class
+          - project
     design:
       view: showcase
       columns: '1'

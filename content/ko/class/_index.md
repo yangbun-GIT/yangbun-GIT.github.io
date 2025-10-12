@@ -58,7 +58,7 @@ sections:
       order: desc
       page_type: class
     design:
-      view: community/custom_card
+      view: custom_card
       columns: '3'
       css_class: justify-text
 ---

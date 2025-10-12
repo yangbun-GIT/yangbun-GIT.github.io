@@ -8,10 +8,30 @@ sections:
 
   - block: hero
     content:
-      title: ''
-      image:
-        filename: study.jpg # assets/media/ 폴더 안의 이미지
-      text: ''
+      # 배경 위에 표시될 텍스트를 여기에 입력합니다.
+      title: '학습 교과'
+      text: '다양한 학습 내용을 소개합니다.'
+
+    design:
+      # --- 이 부분을 추가하여 이미지를 배경으로 설정합니다 ---
+      background:
+        # assets/media/ 폴더에 있는 이미지 파일을 배경으로 지정
+        image: 'study.jpg'
+
+        # 이미지가 위젯 크기에 맞춰 공백 없이 꽉 채우도록 설정
+        image_size: cover
+
+        # 이미지가 잘릴 경우 중앙을 기준으로 표시
+        image_position: center
+
+        # 이미지 위에 덮을 반투명 레이어 (선택 사항)
+        image_darken: 0.5
+
+      # 배경이 어두우므로 텍스트 색상을 밝게 설정
+      text_color_light: true
+
+      # 배너의 높이를 지정 (원하는 값으로 조절)
+      height: "400px"
 
   - block: features
     id: features

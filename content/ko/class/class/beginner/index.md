@@ -1,9 +1,9 @@
 ---
-title: 초급 프로젝트를 통한 개발 학습
+title: 초급 프로젝트
 date: 2025-10-12
 ---
 
-HTML/CSS/JS, TypeScript, View를 통한 개밯 실습
+HTML/CSS/JS, TypeScript, View를 통한 개발 실습
 
 <!--more-->
 

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 프로젝트
+title: 
 
 view: custom_card
 

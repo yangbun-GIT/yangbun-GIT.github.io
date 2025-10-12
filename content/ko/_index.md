@@ -129,7 +129,7 @@ sections:
             color: '#000'
             
     design:
-      slide_height: '500px'
+      slide_height: '600px'
       slide_width: '100px'
       is_fullscreen: false
       loop: true

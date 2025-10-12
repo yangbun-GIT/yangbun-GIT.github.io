@@ -12,30 +12,39 @@ main:
     url: about/
     weight: 30
 
-  #경력 메뉴 (부코)
+  #경력 메뉴 (부모)
   - name: 경력
     weight: 50
 
   #경력 하위 메뉴
   - name: 학습 교과
     parent: 경력
-    url: language/
+    url: class/
     weight: 55
     children:
       - name: 기계학습
-        url: /language/Linux
+        url: /class/ML
         weight: 56
       - name: 데이터마이닝
-        url: /language/C
+        url: /class/mining
         weight: 57
       - name: 초급프로젝트
-        url: /language/Python
+        url: /class/beginner
         weight: 58
-
   - name: 프로그래밍 언어
     parent: 경력
     url: language/
     weight: 60
+    children:
+      - name: 기계학습
+        url: /language/Linux
+        weight: 61
+      - name: 데이터마이닝
+        url: /language/C
+        weight: 62
+      - name: 초급프로젝트
+        url: /language/Python
+        weight: 63
 
   #프로젝트 메뉴 (부모)
   - name: 프로젝트

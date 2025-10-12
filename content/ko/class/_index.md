@@ -4,6 +4,10 @@ title: 학습 교과
 
 type: landing
 
+banner:
+  caption: ''
+  image: 'study.jpg'
+
 sections:
   - block: features
     id: features

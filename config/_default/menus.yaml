@@ -26,7 +26,6 @@ main:
     url: language/
     weight: 60
 
-  #프로젝트 메뉴 (부모)
   - name: 프로젝트
     url: project/
     weight: 70

@@ -40,12 +40,6 @@ sections:
           </div>
         </div>
         
-  - block: markdown
-    content:
-      text: |
-    design:
-      columns: '1'
-
   - block: slider
     content:
       slides:
@@ -135,7 +129,7 @@ sections:
             color: '#000'
             
     design:
-      slide_height: '400px'
+      slide_height: '500px'
       slide_width: '100px'
       is_fullscreen: false
       loop: true

@@ -39,6 +39,13 @@ sections:
             이곳에서  '<a href='/ko/about/'>소개</a>'  저에 대한 정보를 확인할 수 있습니다.
           </div>
         </div>
+        
+  - block: markdown
+    content:
+      text: |
+  
+    design:
+      columns: '1'
 
   - block: slider
     content:

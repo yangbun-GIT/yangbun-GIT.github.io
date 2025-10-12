@@ -31,8 +31,8 @@ name = "Purple Mood"
   background = "rgb(26, 32, 44)"
 
   # Home sections
-  home_section_odd = "#1d143c"  # 매우 어두운 인디고-보라색
-  home_section_even = "#2f2268" # 구분감을 위한 더 진한 보라색
+  home_section_odd = "rgb(26, 32, 44)"
+  home_section_even = "rgb(20, 25, 30)"  # 짝수 섹션을 더 어두운 톤으로 변경
 
   # Menu
   menu_primary = "rgb(26, 32, 44)"

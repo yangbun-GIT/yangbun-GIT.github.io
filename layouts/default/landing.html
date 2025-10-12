@@ -1,0 +1,9 @@
+{{- define "main" -}}
+
+{{/* 이 코드는 _index.md 파일의 'banner' 설정을 읽어 페이지 상단에 배너를 표시합니다. */}}
+{{ partial "page_header.html" . }}
+
+{{/* 이 코드는 _index.md 파일의 'sections'에 정의된 모든 위젯(features, collection 등)을 순서대로 표시합니다. */}}
+{{ .Content }}
+
+{{- end -}}

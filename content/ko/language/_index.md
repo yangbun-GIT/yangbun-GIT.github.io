@@ -8,8 +8,8 @@ sections:
 
   - block: collection
     content:
-      id: section-2
-      title: 사용 가능 언어
+      id: section-1
+      title: 가능한 언어
       subtitle:
       text:
       count: 3

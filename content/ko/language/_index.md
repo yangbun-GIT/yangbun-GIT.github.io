@@ -4,10 +4,15 @@ title:
 
 type: landing
 
-banner:
-  image: learn-language.jpg
-
 sections:
+
+  - block: hero # 'hero' 블록을 첫 번째 섹션으로 추가
+    content:
+      title: 
+      image:
+        # assets/media/ 폴더 안의 이미지 파일
+        filename: learn-language.jpg
+      text: 
 
   - block: collection
     content:

@@ -135,7 +135,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: 학습한 언어
+      title: 언어
       subtitle:
       text:
       count: 3
@@ -153,6 +153,23 @@ sections:
     content:
       id: section-2
       title: 학습
+      subtitle: ''
+      text: ''
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - class
+    design:
+      view: custom_compact  
+      columns: '3'
+      css_class: justify-text
+      
+  - block: collection
+    content:
+      id: section-3
+      title: 프로젝트
       subtitle: ''
       text: ''
       count: 3

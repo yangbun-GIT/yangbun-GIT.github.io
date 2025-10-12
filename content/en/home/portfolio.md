@@ -29,7 +29,7 @@ content:
     - name: All
       tag: '*'
     - name: Machine Learning
-      tag: ML
+      tag: Linux
     - name: Computer Vision
       tag: CV
     - name: NLP

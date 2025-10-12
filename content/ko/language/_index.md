@@ -6,7 +6,7 @@ type: landing
 
 banner:
   caption: ''
-  image: 'learn_language.jpg'
+  image: learn_language.jpg
 
 sections:
 

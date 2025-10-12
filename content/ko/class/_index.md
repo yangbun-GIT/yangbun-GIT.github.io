@@ -6,12 +6,12 @@ type: landing
 
 sections:
 
-  - block: blank
-    id: page-banner
+  - block: hero
     content:
-      text: |
-        <div class="banner-container" style="background-image: url('/media/study.jpg'); height: 400px; width: 100vw; background-size: cover; background-position: center; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
-          </div>  
+      title: ''
+      image:
+        filename: study.jpg # assets/media/ 폴더 안의 이미지
+      text: ''
 
   - block: features
     id: features

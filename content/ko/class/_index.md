@@ -48,13 +48,15 @@ sections:
       subtitle:
       text:
       count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
       offset: 0
       order: desc
-      filters:
-        folders:
-          - ML
-          - mining
-          - beginner
+      page_type: class
     design:
       view: community/custom_card
       columns: '3'

@@ -42,24 +42,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: yang_bun@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
-  # Uncomment below for Github link
+    link: 'mailto:yang_bun@jbnu.ac.kr'
   - icon: github
     icon_pack: fab
     link: https://github.com/yangbun-GIT
-    
   - icon: notion
     icon_pack: fab
     link: https://www.notion.so/Class-Note-0ff73b88f3f445d7996515e90cb92820?source=copy_link
+  - icon: stack-overflow
+    icon_pack: fab
+    link: https://stackoverflow.com/questions
   - icon: linkedin
     icon_pack: fab
     link: https://kr.linkedin.com/
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/0_jun_03/
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/0_jun_03/
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

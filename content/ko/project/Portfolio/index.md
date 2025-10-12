@@ -4,7 +4,7 @@ date: 2025-06-23
 ---
 
 초급 프로젝트
-  - Github pages로 개인 페이지 소개(포폴) 웹사이트 만들기
+  - Github pages & Hugo builder로 포트폴리오 웹사이트 만들기
 
 <!--more-->
 

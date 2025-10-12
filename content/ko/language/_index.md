@@ -4,10 +4,6 @@ title:
 
 type: landing
 
-banner:
-  caption: ''
-  image: learn_language.jpg
-
 sections:
 
   - block: collection

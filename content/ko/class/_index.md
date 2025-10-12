@@ -4,10 +4,6 @@ title: 학습 교과
 
 type: landing
 
-banner:
-  caption: ''
-  image: 'study.jpg'
-
 sections:
   - block: features
     id: features
@@ -48,7 +44,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: 학습 교과
+      title: 학습
       subtitle:
       text:
       count: 3

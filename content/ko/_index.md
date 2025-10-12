@@ -23,6 +23,7 @@ sections:
           <div style="margin-bottom:13px;">
             <a href="mailto:yang_bun@jbnu.ac.kr" style="margin:0 8px; font-size:1.4em;"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/yangbun-GIT" style="margin:0 8px; font-size:1.4em;"><i class="fab fa-github"></i></a>
+            <a href="https://www.notion.so/Class-Note-0ff73b88f3f445d7996515e90cb92820?source=copy_link" style="margin:0 8px; font-size:1.4em;"><i class="fab fa-notion"></i></a>
             <a href="https://kr.linkedin.com/" style="margin:0 8px; font-size:1.4em;"><i class="fab fa-linkedin"></i></a>
             <a href="https://x.com/" style="margin:0 8px; font-size:1.4em;"><i class="fab fa-x-twitter"></i></a>
             <a href="https://www.instagram.com/0_jun_03/" style="margin:0 8px; font-size:1.4em;"><i class="fab fa-instagram"></i></a>

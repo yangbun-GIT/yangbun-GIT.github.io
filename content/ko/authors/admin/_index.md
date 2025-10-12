@@ -48,6 +48,9 @@ social:
     icon_pack: fab
     link: https://github.com/yangbun-GIT
     
+  - icon: notion
+    icon_pack: fab
+    link: https://www.notion.so/Class-Note-0ff73b88f3f445d7996515e90cb92820?source=copy_link
   - icon: linkedin
     icon_pack: fab
     link: https://kr.linkedin.com/

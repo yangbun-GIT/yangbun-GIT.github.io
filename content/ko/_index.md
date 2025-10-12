@@ -85,7 +85,7 @@ sections:
           align: center
           background:
             image:
-              filename: chris-ried-ieic5Tq8YMk-unsplash.jpg
+              filename: annie-spratt-QckxruozjRg-unsplash.jpg
               filters:
                 brightness: 0.4
             position: center

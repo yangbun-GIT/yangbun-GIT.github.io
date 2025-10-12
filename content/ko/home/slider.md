@@ -49,7 +49,7 @@ content:
       align: center
       background:
         image:
-          filename: chris-ried-ieic5Tq8YMk-unsplash.jpg
+          filename: language.jpg
           filters:
             brightness: 0.4
         position: center

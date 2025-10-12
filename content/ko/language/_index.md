@@ -6,6 +6,6 @@ view: custom_card
 
 banner:
   caption: ''
-  image: 'learn-language.jpg'
+  image: 'language.jpg'
 
 ---

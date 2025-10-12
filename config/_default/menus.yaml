@@ -21,40 +21,16 @@ main:
     parent: 경력
     url: class/
     weight: 55
-
   - name: 프로그래밍 언어
     parent: 경력
     url: language/
     weight: 60
-    children:
-      - name: 기계학습
-        url: /language/Linux
-        weight: 61
-      - name: 데이터마이닝
-        url: /language/C
-        weight: 62
-      - name: 초급프로젝트
-        url: /language/Python
-        weight: 63
 
   #프로젝트 메뉴 (부모)
   - name: 프로젝트
-    url: project
+    url: project/
     weight: 70
-    children:
-      #프로젝트 하위 메뉴
-      - name: 리눅스-채팅 프로그램
-        parent: 프로젝트
-        url: /project/Chat
-        weight: 75
-      - name: 데이터베이스 설계
-        parent: 프로젝트
-        url: /project/Database
-        weight: 80
-      - name: 포트폴리오 제작
-        parent: 프로젝트
-        url: /project/Portfolio
-        weight: 85
+
 
   - name: 연락처
     url: /contact

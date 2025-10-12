@@ -7,28 +7,43 @@ main:
   - name: 메인
     url: /
     weight: 10
+
   - name: 소개
     url: about/
-    weight: 20
-  - name: 경력
-    url: /
     weight: 30
-  - name: 프로젝트
-    weight: 40
-  - name: 연락처
-    url: /contact
+
+  #경력 메뉴 (부코)
+  - name: 경력
     weight: 50
 
-  #프로젝트 하위메뉴
+  #경력 하위 메뉴
+  - name: 프로그래밍 언어
+    parent: 경력
+    url: language/
+    weight: 55
+  - name: 학습 과목
+    parent: 경력
+    url: class/
+    weight: 60
+
+  #프로젝트 메뉴 (부모)
+  - name: 프로젝트
+    weight: 70
+
+  #프로젝트 하위 메뉴
   - name: 프로젝트1
     parent: 프로젝트
     url: /
-    weight: 42
+    weight: 75
   - name: 프로젝트2
     parent: 프로젝트
     url: /
-    weight: 44
+    weight: 80
   - name: 프로젝트3
     parent: 프로젝트
     url: /
-    weight: 46
+    weight: 85
+
+  - name: 연락처
+    url: /contact
+    weight: 90

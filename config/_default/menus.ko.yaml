@@ -30,7 +30,6 @@ main:
     url: project/
     weight: 70
 
-
   - name: 연락처
     url: /contact
     weight: 90

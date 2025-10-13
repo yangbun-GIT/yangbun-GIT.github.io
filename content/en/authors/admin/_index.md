@@ -1,12 +1,20 @@
 ---
 # Display name
-title: 윤영준
+title: Yun Yeong-jun
+
+# Full Name (for SEO)
+first_name: Yeongjun
+last_name: Yun
+
+# Username (this should match the folder name)
+authors:
+  - Student
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: '전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)'
+role: 'Department of IT and Information Engineering, College of Engineering, Jeonbuk National University (now the Department of Computer Science and Artificial Intelligence)'
 
 # Status emoji
 #status:
@@ -14,28 +22,26 @@ role: '전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능�
 
 # Organizations/Affiliations
 organizations:
- - name: 전북대학교 컴퓨터인공지능학부
+ - name: Department of Computer Science and Artificial Intelligence, Jeonbuk National University
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 'I am studying artificial intelligence, security, and development at the Department of Computer Science and Artificial Intelligence at Jeonbuk National University.'
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+Interests:
+  - Artificial Intelligence
+  - Algorithms
+  - Development
+  - Networking
+  - Security
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+
+education:
+  courses:
+    - course: Department of Computer Science and Artificial Intelligence
+      institution: Jeonbuk National University
+      year: 2021~
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,18 +50,24 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: yang_bun@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/0_jun_03/
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://x.com/
-# Uncomment below for Github link
+    link: 'mailto:yang_bun@jbnu.ac.kr'
   - icon: github
     icon_pack: fab
     link: https://github.com/yangbun-GIT
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://kr.linkedin.com/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/0_jun_03/
+  - icon: stack-overflow
+    icon_pack: fab
+    link: https://stackoverflow.com/questions
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://x.com/
+  
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,10 +76,27 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
+
+# SEO 추가
+seo_title: “Yun Yeong-jun, Jeonbuk National University IT Information Engineering Department(Current-Computer Artificial Intelligence Department)”
+seo_description: “Portfolio of Yun Yeong-jun from Jeonbuk National University's IT Information Engineering Department(Current-Computer Artificial Intelligence Department). Currently studying artificial intelligence, development, security, and related fields.”
+seo_keywords: “Artificial Intelligence, Development, Security, Jeonbuk National University, Jeonbuk National University, Jeonbuk National University Yun Yeong-jun, Yun Yeong-jun, Department of IT Information Engineering, Department of Computer and Artificial Intelligence, Computer and Artificial Intelligence”
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div class="justify-text">
+I am Yun Yeong-jun, currently enrolled in the Department of IT Information Engineering(now the Department of Computer and Artificial Intelligence) at Jeonbuk National University.
+</div>
+<div class="justify-text">
+I am interested in research on AI and the development of applications and content utilizing AI.
+</div>
+<div class="justify-text">
+Currently enrolled in my third year, second semester, I am building upon the artificial intelligence foundation from previous semesters by studying machine learning and data mining. I am gaining development and project experience through beginner-level projects.
+</div>
+<div class="justify-text">
+Long-term, my goal is to gain expertise in artificial intelligence by obtaining certifications such as the Big Data Analyst qualification or certifications offered by international organizations like Microsoft or Google.
+</div>
+<div class="justify-text">
+Based on this foundation, I aspire to join an institution specializing in AI research and development, becoming a driving force in shaping new paradigms.
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref “uploads/resume.pdf” “newtab” >}}Download{{< /staticref >}} get my resume as a PDF

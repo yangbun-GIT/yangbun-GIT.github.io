@@ -4,33 +4,32 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 홈
+  - name: Home
     url: /
     weight: 10
 
-  - name: 소개
+  - name: About
     url: about/
     weight: 30
 
-  #경력 메뉴 (부모) - 드롭다운
-  - name: 경력
+  #Career Menu (Parent) - Dropdown
+  - name: Career
     weight: 50
 
-  #경력 하위 메뉴
-  - name: 학습
-    parent: 경력
+  #Career Submenu
+  - name: Learning
+    parent: Career
     url: class/
     weight: 55
-  - name: 프로그래밍 언어
-    parent: 경력
+  - name: Programming Languages
+    parent: Career
     url: language/
     weight: 60
 
-  - name: 프로젝트
+  - name: Projects
     url: project/
     weight: 70
 
-
-  - name: 연락처
+  - name: Contact
     url: /contact
     weight: 90

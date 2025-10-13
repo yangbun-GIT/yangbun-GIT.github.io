@@ -13,6 +13,11 @@ languages:
     weight: 2
     contentDir: "content/en"
 
+sitemap:
+  changefreq: daily
+  priority: 0.5
+  filename: sitemap.xml
+
 params:
   description: '전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 윤영준의 포트폴리오입니다. AI, Develop, 보안, Language에 대한 정보 제공.'
   keywords: '윤영준, 전북대, 전북대학교, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능, 인공지능, AI, Develop, 보안, Language'

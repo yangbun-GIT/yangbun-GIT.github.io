@@ -24,12 +24,13 @@ marketing:
     author: '윤영준'
     language: 'ko'
   analytics:
+    google: 'hPKp3Aw4yxCfj094H2e2xsSZFt4C0kZeuFUa7hQiqGE'
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'hPKp3Aw4yxCfj094H2e2xsSZFt4C0kZeuFUa7hQiqGE'
     baidu: ''
 
 params:

@@ -26,7 +26,7 @@ organizations:
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발에 관심
+bio: '전북대학교 컴퓨터인공지능학부에서 인공지능 및 보안, 그리고 개발에 대해 배우고 있습니다.'
 
 interests:
   - 인공지능
@@ -38,7 +38,7 @@ interests:
 
 education:
   courses:
-    - course: IT정보공학과(재학중)
+    - course: IT정보공학과(現-컴퓨터인공지능학부) 재학
       institution: 전북대학교
       year: 2021~
 
@@ -78,9 +78,9 @@ social:
 #email: ""
 
 # SEO 추가
-seo_title: "윤영준 전북대학교 컴퓨터인공지능학부"
+seo_title: "윤영준 전북대학교 IT정보공학과(現-컴퓨터인공지능학부)"
 seo_description: "전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 윤영준의 포트폴리오. 인공지능, 개발, 보안 분야 등을 학습 중입니다."
-seo_keywords: "인공지능, 개발, 보안, 전북대학교, 전북대, 윤영준, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능, 전북대 윤영준"
+seo_keywords: "인공지능, 개발, 보안, 전북대학교, 전북대, 전북대 윤영준, 윤영준, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능"
 ---
 
 전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 **윤영준**입니다.  

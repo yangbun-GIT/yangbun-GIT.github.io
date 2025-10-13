@@ -1,32 +1,32 @@
-# [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+# 윤영준의 포트폴리오 (YJY-Portfolio)
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yangbun-GIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/yang_bun)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0_jun_03/)
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
+안녕하세요! **전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학 중인 윤영준**입니다. 이 저장소는 Hugo를 사용하여 구축한 저의 개인 포트폴리오 웹사이트 소스 코드입니다. 이 사이트는 저의 관심 분야와 프로젝트 경험을 공유하기 위해 제작되었습니다.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+---
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## ✨ 주요 내용
 
-[Check out the latest demo](https://hugo-portfolio-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+- **개인 소개**: 저의 학력, 경력, 관심 분야(인공지능, 개발, 보안)에 대한 정보가 담겨 있습니다.
+- **프로젝트**: 진행했던 주요 프로젝트 3개 이상을 소개합니다.
+- **연락처**: 저와 소통할 수 있는 채널을 제공합니다.
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## 🛠️ 기술 스택
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+이 웹사이트는 다음 기술 스택을 기반으로 합니다.
+- **정적 사이트 생성기**: [Hugo](https://gohugo.io/)
+- **테마**: [Hugo Blox 빌더 (Wowchemy)](https://hugoblox.com/)
+- **배포**: [GitHub Pages](https://pages.github.com/)
 
-## We ask you, humbly, to support this open source movement
+## 🚀 사이트 방문하기
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+아래 링크를 통해 실제 웹사이트를 방문할 수 있습니다.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+- **포트폴리오 웹사이트**: [https://yangbun-git.github.io/ko/](https://yangbun-git.github.io/ko/)
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+## 📝 라이선스
+
+이 프로젝트는 오픈 소스이며, MIT 라이선스를 따릅니다.

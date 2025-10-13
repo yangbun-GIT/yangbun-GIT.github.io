@@ -13,14 +13,14 @@ sections:
       title: ""
       text: |
         <div style="text-align:center; font-size:1.2rem; line-height:1.35;">
-          <img src="avatar.jpg" alt="프로필 이미지" style="width:200px; height:200px; border-radius:50%; object-fit:cover; filter:brightness(0.95); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
+          <img src="avatar.jpg" alt="프로필 이미지" style="width:170px; height:170px; border-radius:50%; object-fit:cover; filter:brightness(0.95); margin-bottom:16px; display:block; margin-left:auto; margin-right:auto; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
 
           <div style="font-weight:bold; font-size:1.6rem; margin-bottom:13px;">윤영준</div>
-          <div style="margin-bottom:10px; color:#bfc6d1;">
+          <div style="margin-bottom:10px;">
             전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)
           </div>
           <div style="margin-bottom:15px;">
-            <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank" style="color:#5cd1e5; font-weight:bold;">전북대학교 컴퓨터인공지능학부</a>
+            <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank" style="margin:0 10px; font-weight:bold;">전북대학교 컴퓨터인공지능학부</a>
           </div>
 
           <div style="margin-bottom:13px;">

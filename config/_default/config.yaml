@@ -1,4 +1,4 @@
-title: YJY-Portfolio
+title: "윤영준 | 전북대학교 컴퓨터인공지능학부"
 baseURL: 'https://yangbun-GIT.github.io/'
 theme: "wowchemy"
 
@@ -14,13 +14,13 @@ languages:
     contentDir: "content/ko"
 
 params:
-  description: ""
-  author: ""
-  keywords: [""]
+  description: '전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 윤영준의 포트폴리오입니다. AI, Develop, 보안, Language에 대한 정보 제공.'
+  keywords: '윤영준, 전북대, 전북대학교, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능, 인공지능, AI, Develop, 보안, Language'
+  author: '윤영준'
 
   seo:
-    og_title: ""
-    og_description: ""
+    og_title: "전북대 윤영준의 AI, 보안, 개발 포트폴리오"
+    og_description: "전북대학교 컴퓨터인공지능학부 재학생 윤영준의 개인 포트폴리오입니다."
     og_image: "/media/icon.png"  # 사이트 로고나 대표 이미지 경로
     og_type: "website"
 

@@ -2,6 +2,14 @@
 # Display name
 title: 윤영준
 
+# Full Name (for SEO)
+first_name: YeongJun
+last_name: Yun
+
+# Username (this should match the folder name)
+authors:
+  - Student
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -68,6 +76,11 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
+
+# SEO 추가
+seo_title: "윤영준 전북대학교 컴퓨터인공지능학부"
+seo_description: "전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 윤영준의 포트폴리오. 인공지능, 개발, 보안 분야 등을 학습 중입니다."
+seo_keywords: "인공지능, 개발, 보안, 전북대학교, 전북대, 윤영준, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능, 전북대 윤영준"
 ---
 
 전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 **윤영준**입니다.  

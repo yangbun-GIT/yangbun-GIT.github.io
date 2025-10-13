@@ -11,7 +11,7 @@ ko:
 
 # Uncomment the lines below to configure your website in a second language.
 en:
-  languageCode: en-sus
+  languageCode: en-us
   title: "YJY-Portfolio"
   contentDir: content/en
 #  title: Chinese website title...

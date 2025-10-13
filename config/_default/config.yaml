@@ -21,7 +21,7 @@ params:
   seo:
     og_title: ""
     og_description: ""
-    og_image: "/images/icon.png"  # 사이트 로고나 대표 이미지 경로
+    og_image: "/media/icon.png"  # 사이트 로고나 대표 이미지 경로
     og_type: "website"
 
   schema:

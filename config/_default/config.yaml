@@ -26,9 +26,9 @@ params:
 
   schema:
     type: "Person"
-    name: ""
-    description: ""
-    jobTitle: ""
+    name: "윤영준"
+    description: "전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 학생으로 AI와 개발 및 보안에 관심"
+    jobTitle: "Student, Developer"
     worksFor:
       "@type": "Organization"
       name: "전북대학교 컴퓨터인공지능학부"

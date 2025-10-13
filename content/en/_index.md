@@ -36,7 +36,7 @@ sections:
           <div style="margin-bottom:8px;">
             I am <b>Yun Yeong-jun</b>, a student in the Department of IT and Information Engineering (now the Department of Computer Science and Artificial Intelligence) at Jeonbuk National University.<br>
             I am currently completing my second semester of my third year.<br>
-            You can find information about me here: ‘<a href=’/ko/about/‘>About Me</a>’.
+            You can find information about me here: ‘<a href=’/en/about/‘>About Me</a>’.
           </div>
         </div>
         

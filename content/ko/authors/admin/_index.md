@@ -99,4 +99,4 @@ A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발
 그리고 이것을 기반으로 인공지능에 대한 연구나 개발을 전문적으로 수행하는 기관에 소속되어 새로운 패러다임을 이끄는 한 축이 되고 싶습니다.
 </div>
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/이력서.pdf" "newtab" >}}다운로드{{< /staticref >}} 내 이력서를 PDF로 받기
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}} 내 이력서를 PDF로 받기

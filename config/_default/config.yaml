@@ -1,0 +1,37 @@
+title: YJY-Portfolio
+baseURL: 'https://yangbun-GIT.github.io/'
+theme: "wowchemy"
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content/en"
+
+  ko:
+    languageName: "한국어"
+    weight: 2
+    contentDir: "content/ko"
+
+params:
+  description: ""
+  author: ""
+  keywords: [""]
+
+  seo:
+    og_title: ""
+    og_description: ""
+    og_image: "/images/logo.png"  # 사이트 로고나 대표 이미지 경로
+    og_type: "website"
+
+  schema:
+    type: "Person"
+    name: ""
+    description: ""
+    jobTitle: ""
+    worksFor:
+      "@type": "Organization"
+      name: "전북대학교 컴퓨터인공지능학부"
+    url: "https://csai.jbnu.ac.kr/csai/index.do#:~:text=[54896]/"
+    sameAs:
+      - "https://github.com/yangbun-GIT"

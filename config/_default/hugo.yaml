@@ -30,36 +30,6 @@ defaultContentLanguageInSubdir: true #하위 디럭터리 사용
 removePathAccents: true
 
 ############################
-## Site header
-############################
-
-header:
-  navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: true
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
-    logo:
-      image: "/assets/images/logo.png"
-      text: ""
-
-############################
-## footer
-############################
-
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-############################
 ## ADVANCED
 ############################
 

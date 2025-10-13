@@ -99,4 +99,4 @@ Long-term, my goal is to gain expertise in artificial intelligence by obtaining 
 Based on this foundation, I aspire to join an institution specializing in AI research and development, becoming a driving force in shaping new paradigms.
 </div>
 
-{{< icon name="download" pack="fas" >}} {{< staticref “uploads/resume.pdf” “newtab” >}}Download{{< /staticref >}} get my resume as a PDF
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} get my resume as a PDF

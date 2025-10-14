@@ -7,11 +7,23 @@ ko:
   languageCode: ko-kr
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/ko
+  weight: 1
+  params:
+    description: 윤영준의 포트폴리오 페이지
+    logo:
+      image: "assets/media/icon.png"  # 한국어 사이트 로고 경로
+      text: ""
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
   contentDir: content/en
+  weight: 2
+  params:
+    description: Yun Yeong-jun portfolio page
+    logo:
+      image: "assets/media/icon.png"  # 영어 사이트 로고 경로
+      text: ""
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...

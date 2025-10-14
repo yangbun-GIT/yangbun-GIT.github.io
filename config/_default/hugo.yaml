@@ -26,7 +26,7 @@ cascade:
 
 defaultContentLanguage: ko
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false #하위 디럭터리 사용
+defaultContentLanguageInSubdir: true #하위 디럭터리
 removePathAccents: true
 
 ############################

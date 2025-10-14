@@ -3,8 +3,8 @@
 title: 윤영준
 
 # Full Name (for SEO)
-first_name: YeongJun
-last_name: Yun
+first_name: 윤
+last_name: 영준
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yun Yeong-jun
+title: Yeongjun Yun
 
 # Full Name (for SEO)
 first_name: Yeongjun
@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 'Department of IT and Information Engineering, College of Engineering, Jeonbuk National University (now the Department of Computer Science and Artificial Intelligence)'
+role: 'Aspiring AI & Security Developer'
 
 # Status emoji
 #status:
@@ -22,11 +22,11 @@ role: 'Department of IT and Information Engineering, College of Engineering, Jeo
 
 # Organizations/Affiliations
 organizations:
- - name: Department of Computer Science and Artificial Intelligence, Jeonbuk National University
+ - name: Jeonbuk National University, Dept. of Computer Science and AI
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'I am studying artificial intelligence, security, and development at the Department of Computer Science and Artificial Intelligence at Jeonbuk National University.'
+bio: 'Passionate about exploring AI and Information Security to build and secure the next paradigm of technology.'
 
 Interests:
   - Artificial Intelligence
@@ -38,7 +38,7 @@ Interests:
 
 education:
   courses:
-    - course: Department of Computer Science and Artificial Intelligence
+    - course: BS in Computer Science and Artificial Intelligence
       institution: Jeonbuk National University
       year: 2021~
 
@@ -78,25 +78,23 @@ social:
 #email: ""
 
 # SEO 추가
-seo_title: “Yun Yeong-jun, Jeonbuk National University IT Information Engineering Department(Current-Computer Artificial Intelligence Department)”
-seo_description: “Portfolio of Yun Yeong-jun from Jeonbuk National University's IT Information Engineering Department(Current-Computer Artificial Intelligence Department). Currently studying artificial intelligence, development, security, and related fields.”
-seo_keywords: “Artificial Intelligence, Development, Security, Jeonbuk National University, Jeonbuk National University, Jeonbuk National University Yun Yeong-jun, Yun Yeong-jun, Department of IT Information Engineering, Department of Computer and Artificial Intelligence, Computer and Artificial Intelligence”
+# SEO Optimization
+seo_title: "Yeongjun Yun | AI & Security Developer Portfolio | JBNU"
+seo_description: "The technical portfolio of Yeongjun Yun, a developer passionate about Artificial Intelligence and Information Security. Explore projects, articles, and the journey of building the next paradigm at Jeonbuk National University."
+seo_keywords: "Yeongjun Yun, JBNU, AI Developer, Security Researcher, Developer Portfolio, Jeonbuk National University, Computer Science, Artificial Intelligence, Machine Learning, Data Mining, Back-end Development, Python, Security"
 ---
 
 <div class="justify-text">
-I am Yun Yeong-jun, currently enrolled in the Department of IT Information Engineering(now the Department of Computer and Artificial Intelligence) at Jeonbuk National University.
+I am Yeongjun Yun, a developer aiming to create new value through the convergence of Artificial Intelligence and Information Security.
 </div>
 <div class="justify-text">
-I am interested in research on AI and the development of applications and content utilizing AI.
+Currently, as a student at Jeonbuk National University's Department of Computer Science and AI, I am building a solid theoretical foundation in AI, Machine Learning, and Data Mining. I find great excitement in the process of turning ideas into reality through AI-powered application development and hands-on projects.
 </div>
 <div class="justify-text">
-Currently enrolled in my third year, second semester, I am building upon the artificial intelligence foundation from previous semesters by studying machine learning and data mining. I am gaining development and project experience through beginner-level projects.
+In the long term, I plan to secure professional expertise by obtaining certifications like the Big Data Analyst qualification and specialized certifications from global organizations such as Google or Microsoft. My ultimate aspiration is to contribute to a leading research and development institution, playing a key role in shaping new technological paradigms.
 </div>
 <div class="justify-text">
-Long-term, my goal is to gain expertise in artificial intelligence by obtaining certifications such as the Big Data Analyst qualification or certifications offered by international organizations like Microsoft or Google.
-</div>
-<div class="justify-text">
-Based on this foundation, I aspire to join an institution specializing in AI research and development, becoming a driving force in shaping new paradigms.
+This portfolio is a living document of my learning process and growth. I invite you to follow along on my journey of continuous learning and challenge.
 </div>
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} get my resume as a PDF

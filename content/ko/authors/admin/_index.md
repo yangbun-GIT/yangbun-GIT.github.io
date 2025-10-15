@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: '전북대학교 공과대학 IT정보공학과(現-컴퓨터인공지능학부)'
+role: 'AI & Security & Developer'
 
 # Status emoji
 #status:
@@ -26,7 +26,7 @@ organizations:
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: '전북대학교 컴퓨터인공지능학부에서 인공지능 및 보안, 그리고 개발에 대해 배우고 있습니다.'
+bio: '"AI와 정보 보안 기술을 탐구하며, 새로운 패러다임을 이끌어갈 개발자를 꿈꿉니다."'
 
 interests:
   - 인공지능
@@ -78,25 +78,22 @@ social:
 #email: ""
 
 # SEO 추가
-seo_title: "윤영준 전북대학교 IT정보공학과(現-컴퓨터인공지능학부)"
-seo_description: "전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 윤영준의 포트폴리오. 인공지능, 개발, 보안 분야 등을 학습 중입니다."
-seo_keywords: "인공지능, 개발, 보안, 전북대학교, 전북대, 전북대 윤영준, 윤영준, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능"
+seo_title: "윤영준 | AI·보안 개발자 포트폴리오 | 전북대학교"
+seo_description: "AI와 정보 보안에 대한 깊은 관심을 바탕으로 성장하는 개발자, 윤영준의 기술 포트폴리오입니다. 프로젝트, 기술 블로그, 학습 경험을 통해 새로운 패러다임을 이끌기 위한 여정을 확인하세요."
+seo_keywords: "윤영준, 전북대 윤영준, 전북대학교, AI 개발자, 정보보안, 개발자 포트폴리오, 전북대학교 컴퓨터인공지능학부, 인공지능, 기계학습, 데이터마이닝, 백엔드 개발, Python, Algorithm"
 ---
 
 <div class="justify-text">
 전북대학교 IT정보공학과(現-컴퓨터인공지능학부)에 재학중인 윤영준입니다.
 </div>
 <div class="justify-text">
-A.I에 대한 연구나 A.I를 활용한 어플리케이션 및 컨텐츠 개발에 관심을 가지고 있습니다.
-</div>
-<div class="justify-text">
 현재 3학년 2학기 과정을 수료중으로 이전 학기에 배운 인공지능을 기반으로 지금은 기계학습과 데이터마이닝에 대해 배우고 있으며, 초급 프로젝트를 통해 개발 및 프로젝트에 대한 경험을 키워나가고 있습니다.
 </div>
 <div class="justify-text">
-장기적으로는 인공지능에 대한 전문성을 위해 빅데이터분석기사의 취득이나 마이크로소프트나 구글 등의 국제 기관에서 주관하는 자격증을 취득하는 것이 목표입니다.
+장기적으로는 빅데이터분석기사, Google/MS의 전문 자격증 취득을 통해 인공지능 분야의 전문성을 확보하고, 연구 및 개발 기관의 일원으로서 기술의 새로운 패러다임을 이끄는 데 기여하고 싶습니다.
 </div>
 <div class="justify-text">
-그리고 이것을 기반으로 인공지능에 대한 연구나 개발을 전문적으로 수행하는 기관에 소속되어 새로운 패러다임을 이끄는 한 축이 되고 싶습니다.
+이 포트폴리오는 저의 학습 과정과 성장 기록을 담은 공간입니다. 끊임없이 배우고 도전해 나갈것입니다.
 </div>
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}} 내 이력서를 PDF로 받기

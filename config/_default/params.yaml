@@ -16,16 +16,16 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'portfolio'
-    org_name: '전북대 윤영준'
-    description: '전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 재학생 윤영준의 개인 포트폴리오입니다.'
+    local_business_type: ''
+    org_name: '윤영준 | 전북대학교 컴퓨터인공지능학부'
+    description: 'AI, 개발, 보안을 탐구하는 전북대학교 컴퓨터인공지능학부 윤영준의 기술 포트폴리오입니다. 프로젝트, 학습 기록, 기술 정보를 확인하세요.'
     twitter: ''
-    keywords: '윤영준, 전북대, 전북대학교, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능, 인공지능, AI, Develop, 보안, Language'
+    keywords: '윤영준, 전북대 윤영준, 전북대학교, 컴퓨터인공지능학부, AI 포트폴리오, 개발자 포트폴리오, 정보보안, 인공지능 개발, JBNU, AI, Python, Security, Developer Portfolio'
     author: '윤영준'
-    language: 'ko'
-    og_title: "전북대 윤영준의 AI, 개발, 보안 포트폴리오"
-    og_description: "전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 재학생 윤영준의 개인 포트폴리오입니다."
-    og_image: "/media/icon.png"  # 사이트 로고나 대표 이미지 경로
+    language: 'ko_KR'
+    og_title: "윤영준 | AI·개발·보안 기술 포트폴리오"
+    og_description: "전북대학교 컴퓨터인공지능학부 윤영준입니다. AI, 웹 개발, 정보 보안 관련 프로젝트와 성장 기록을 담은 포트폴리오를 만나보세요."
+    og_image: "/media/icon.png"
     og_type: "website"
 
   analytics:
@@ -38,8 +38,8 @@ marketing:
     baidu: ''
 
 params:
-  description: '전북대학교 IT정보공학과(現-컴퓨터인공지능학부) 윤영준의 포트폴리오입니다. AI, Develop, 보안, Language에 대한 정보 제공.'
-  keywords: '윤영준, 전북대, 전북대학교, IT정보공학과, 컴퓨터인공지능학부, 컴퓨터인공지능, 인공지능, AI, Develop, 보안, Language'
+  description: '전북대학교 컴퓨터인공지능학부 윤영준의 기술 포트폴리오입니다. AI, 개발, 정보 보안 관련 프로젝트, 학습 기록, 기술 정보를 제공합니다.'
+  keywords: '윤영준, 전북대 윤영준, 전북대학교, 컴퓨터인공지능학부, AI 포트폴리오, 개발자 포트폴리오, 정보보안, 인공지능 개발, JBNU, AI, Python, Security, Developer Portfolio'
   author: '윤영준'
   logo:
     image: "assets/media/icon.png"

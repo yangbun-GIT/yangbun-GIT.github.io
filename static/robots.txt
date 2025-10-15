@@ -1,0 +1,11 @@
+# 모든 검색 엔진 크롤러에게 적용
+User-agent: *
+
+# 사이트의 모든 콘텐츠에 대한 크롤링을 허용
+Allow: /
+
+# 검색 페이지는 크롤링에서 제외 (검색 결과 페이지는 SEO 가치가 없음)
+Disallow: /search/
+
+# 사이트맵 위치를 명시하여 검색 엔진이 사이트 구조를 쉽게 파악하도록 안내
+Sitemap: https://yangbun-git.github.io/sitemap.xml

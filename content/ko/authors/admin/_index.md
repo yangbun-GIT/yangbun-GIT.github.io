@@ -22,6 +22,8 @@ role: '전북대학교 컴퓨터인공지능학부 재학생'
 
 # Organizations/Affiliations
 organizations:
+ - name: 전북대학교 
+   url: "https://csai.jbnu.ac.kr/csai/index.do"
  - name: 전북대학교 컴퓨터인공지능학부
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 

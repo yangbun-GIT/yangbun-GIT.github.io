@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 윤영준 - 전북대학교 재학생
+title: 윤영준
 
 # Full Name (for SEO)
 first_name: Yeongjun
@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: '전북대학교 컴퓨터인공지능학부 재학생'
+role: '전북대학교 컴퓨터인공지능학부'
 
 # Status emoji
 #status:
@@ -22,8 +22,9 @@ role: '전북대학교 컴퓨터인공지능학부 재학생'
 
 # Organizations/Affiliations
 organizations:
- - name: 전북대학교 
-   url: "https://csai.jbnu.ac.kr/csai/index.do"
+ - name: 전북대학교
+   url: "https://www.jbnu.ac.kr/web/index.do"
+   
  - name: 전북대학교 컴퓨터인공지능학부
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 

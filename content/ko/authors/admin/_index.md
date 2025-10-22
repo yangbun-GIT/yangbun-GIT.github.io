@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 윤영준
+title: 윤영준 - 전북대학교 재학생
 
 # Full Name (for SEO)
-first_name: 윤
-last_name: 영준
+first_name: Yeongjun
+last_name: yun
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 'AI & Security & Developer'
+role: '전북대학교 컴퓨터인공지능학부 재학생'
 
 # Status emoji
 #status:
@@ -26,7 +26,7 @@ organizations:
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: '"AI와 정보 보안 기술을 탐구하며, 새로운 패러다임을 이끌어갈 개발자를 꿈꿉니다."'
+bio: '전북대학교 소속 윤영준입니다. AI, 개발, 보안을 학습하며 프로젝트 경험을 키우고 있습니다.'
 
 interests:
   - 인공지능
@@ -79,8 +79,8 @@ social:
 
 # SEO 추가
 seo_title: "윤영준 | AI·보안 개발자 포트폴리오 | 전북대학교"
-seo_description: "AI와 정보 보안에 대한 깊은 관심을 바탕으로 성장하는 개발자, 윤영준의 기술 포트폴리오입니다. 프로젝트, 기술 블로그, 학습 경험을 통해 새로운 패러다임을 이끌기 위한 여정을 확인하세요."
-seo_keywords: "윤영준, 전북대 윤영준, 전북대학교, AI 개발자, 정보보안, 개발자 포트폴리오, 전북대학교 컴퓨터인공지능학부, 인공지능, 기계학습, 데이터마이닝, 백엔드 개발, Python, Algorithm"
+seo_description: "전북대학교 컴퓨터인공지능학부 윤영준의 포트폴리오. 인공지능, 개발, 보안 분야 학습 중."
+seo_keywords: "윤영준, 전북대 윤영준, 전북대학교, AI 개발자, 정보보안, 개발자 포트폴리오, 전북대학교 컴퓨터인공지능학부, 인공지능, 기계학습, 데이터마이닝, Python, Algorithm"
 ---
 
 <div class="justify-text">
